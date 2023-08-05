@@ -1,4 +1,4 @@
 .idea/
-org/
+./org/
 target/
 dependency-reduced-pom.xml
