@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: org.example.MyAgent
+Agent-Class: org.example.MyAgent
+Can-Retransform-Classes: true
